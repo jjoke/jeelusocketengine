@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JeeluSocketEngine", "JeeluSocketEngine\JeeluSocketEngine.vcxproj", "{43310A37-5775-4D0A-955E-BED9AB400097}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EngineDemo", "EngineDemo\EngineDemo.vcxproj", "{4E75779D-B89E-4AA0-ABCA-51E104ABEAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43310A37-5775-4D0A-955E-BED9AB400097}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43310A37-5775-4D0A-955E-BED9AB400097}.Debug|Win32.Build.0 = Debug|Win32
+		{43310A37-5775-4D0A-955E-BED9AB400097}.Release|Win32.ActiveCfg = Release|Win32
+		{43310A37-5775-4D0A-955E-BED9AB400097}.Release|Win32.Build.0 = Release|Win32
+		{4E75779D-B89E-4AA0-ABCA-51E104ABEAB4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E75779D-B89E-4AA0-ABCA-51E104ABEAB4}.Debug|Win32.Build.0 = Debug|Win32
+		{4E75779D-B89E-4AA0-ABCA-51E104ABEAB4}.Release|Win32.ActiveCfg = Release|Win32
+		{4E75779D-B89E-4AA0-ABCA-51E104ABEAB4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

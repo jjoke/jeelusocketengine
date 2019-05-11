@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{3c68c95b-43d2-43bd-bb37-a5e540059e3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TcpServer">
+      <UniqueIdentifier>{ae2c8cb9-08e5-48e2-bd71-ecc0f6493e66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UdpServer">
+      <UniqueIdentifier>{87792e24-2901-4f3f-aede-ea73614acab2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TcpClient">
+      <UniqueIdentifier>{21568f61-dd78-4d7c-9a11-8dae11c112d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UdpClient">
+      <UniqueIdentifier>{3a629bc2-bd85-4cd9-b184-0edda9667a79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="JeeluSocketEngine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineOption.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineBaseType.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="JeeluSocketEngine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Program.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
